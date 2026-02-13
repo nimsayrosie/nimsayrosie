@@ -22,6 +22,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="300" src="https://media.tenor.com/P5EJALTMklMAAAAi/cinnamoroll.gif"  />
 
 ###
