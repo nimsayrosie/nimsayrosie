@@ -22,6 +22,10 @@
 
 ###
 
+<img align="right" height="300" src="https://media.tenor.com/P5EJALTMklMAAAAi/cinnamoroll.gif"  />
+
+###
+
 <div align="left">
   <a href="https://www.youtube.com/@quantumcinna" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=quantum%20cinna&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -33,5 +37,14 @@
 
 ###
 
-<img align="right" height="200" src="https://media.tenor.com/P5EJALTMklMAAAAi/cinnamoroll.gif"  />
+<br clear="both">
 
+<img src="https://raw.githubusercontent.com/nimsayrosie/nimsayrosie/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=87CEFA&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=87CEFA"  />
+</div>
+
+###
