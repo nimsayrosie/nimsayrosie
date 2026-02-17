@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">Estudante de Ciência da Computação. Atualmente, estou construindo uma base técnica sólida, com conhecimento prático em Java e Python.<br><br>Além das minhas habilidades atuais, me interesso muito por Computação Quântica e estou explorando ativamente como ela moldará o futuro da tecnologia. Estou focada no meu crescimento profissional contínuo e buscando oportunidades para aplicar e expandir meu conhecimento em ambientes desafiadores</p>
+<h3 align="left">Graduanda em Ciência da Computação | Tech Lead na Code[] | Enthusiasta de Computação Quântica</h3>
+
+###
+
+<p align="left">Estudante de Ciência da Computação com foco em desenvolvimento robusto utilizando Python e exploração de tecnologias de fronteira. Atualmente, atuo como Tech Lead na Code[] (Empresa Júnior), onde lidero o desenvolvimento de projetos de software, coordenando equipes técnicas e garantindo a entrega de soluções eficientes e escaláveis.<br><br>Complemento minha base em desenvolvimento com uma especialização ativa em Computação Quântica pela Brazil Quantum Tech, estudando como algoritmos quânticos e a mecânica da informação moldarão a próxima era da tecnologia. Busco constantemente aplicar meu pensamento analítico e habilidades de liderança em ambientes desafiadores que unam inovação acadêmica e impacto prático no mercado.<br>Além das minhas habilidades atuais, me interesso muito por Computação Quântica e estou explorando ativamente como ela moldará o futuro da tecnologia. Estou focada no meu crescimento profissional contínuo e buscando oportunidades para aplicar e expandir meu conhecimento em ambientes desafiadores</p>
 
 ###
 
@@ -10,7 +14,11 @@
 
 ###
 
-<p align="left">Computer Science student with a clear passion for Cloud Computing. I am currently building a solid technical foundation, with practical knowledge in Java and Python.<br><br>Beyond my current skills, I am a Quantum Computing enthusiast and am actively exploring how it will shape the future of technology. I am focused on my continuous professional growth and seeking opportunities to apply and expand my knowledge in challenging environments.<br>Além das minhas habilidades atuais, me interesso muito por Computação Quântica e estou explorando ativamente como ela moldará o futuro da tecnologia. Estou focada no meu crescimento profissional contínuo e buscando oportunidades para aplicar e expandir meu conhecimento em ambientes desafiadores</p>
+<h3 align="left">Computer Science Student | Tech Lead at Code[] | Quantum Computing Enthusiast</h3>
+
+###
+
+<p align="left">Computer Science student dedicated to building high-performance solutions with a strong focus on Python development. I currently serve as Tech Lead at Code[] (Junior Enterprise), where I spearhead software projects, mentoring technical teams and overseeing the full development lifecycle to ensure high-quality delivery.<br><br>Beyond software engineering, I am deepening my expertise in Quantum Computing through Brazil Quantum Tech, actively exploring the intersection of quantum algorithms and future computational paradigms. I am driven by the challenge of bridging current software best practices with the emerging possibilities of quantum technology, always seeking opportunities to grow as both a developer and a leader.</p>
 
 ###
 
