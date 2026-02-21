@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">Graduanda em Ciência da Computação | Tech Lead na Code[] | Enthusiasta de Computação Quântica</h3>
+<h3 align="left">Graduanda em Ciência da Computação | Tech Lead na Code[] | Entusiasta de Computação Quântica</h3>
 
 ###
 
