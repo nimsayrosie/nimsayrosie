@@ -1,3 +1,9 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Prazer,%20Yasmin!&fontSize=70&fontColor=FADADD&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=87CEFA"  />
+</div>
+
+###
+
 <h2 align="left">PT-BR</h2>
 
 ###
@@ -40,9 +46,8 @@
 </div>
 
 ###
-<br clear="both">
 
----
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nimsayrosie/nimsayrosie/output/pacman-contribution-graph-dark.svg">
@@ -58,8 +63,6 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=87CEFA&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=87CEFA"  />
-</div>
+<h2 align="left">Obrigada, até mais!</h2>
 
 ###
