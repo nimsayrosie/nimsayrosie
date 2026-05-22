@@ -38,7 +38,10 @@
 
 ###
 
-<p align="left">Estudante de Ciência da Computação com foco em desenvolvimento robusto utilizando Python e exploração de tecnologias de fronteira. Atualmente, atuo como Tech Lead na Code[] (Empresa Júnior), onde lidero o desenvolvimento de projetos de software, coordenando equipes técnicas e garantindo a entrega de soluções eficientes e escaláveis.<br><br>Complemento minha base em desenvolvimento com uma especialização ativa em Computação Quântica pela Brazil Quantum Tech, estudando como algoritmos quânticos e a mecânica da informação moldarão a próxima era da tecnologia. Busco constantemente aplicar meu pensamento analítico e habilidades de liderança em ambientes desafiadores que unam inovação acadêmica e impacto prático no mercado.<br>Além das minhas habilidades atuais, me interesso muito por Computação Quântica e estou explorando ativamente como ela moldará o futuro da tecnologia. Estou focada no meu crescimento profissional contínuo e buscando oportunidades para aplicar e expandir meu conhecimento em ambientes desafiadores</p>
+<p align="left">Estudante de Ciência da Computação na Dom Helder, pesquisadora no NIAR Saúde (DCC/UFMG), onde trabalho com IA responsável aplicada a dados clínicos de saúde. Essa área me interessa porque os erros têm peso real — não é um campo onde dá pra ser descuidada.
+Sou Tech Lead na Code[], empresa júnior da faculdade, onde coordeno equipes, toco projetos de software e apresento pitches para stakeholders. É um ambiente que exige decisão rápida e comunicação clara, duas coisas que aprendi mais na prática do que em sala de aula.
+Em paralelo, estudo computação quântica. Concluí a trilha avançada do Brazil Quantum Camp, implementei algoritmos como QSVM e QAOA, e o projeto final do meu grupo ficou em segundo lugar entre todos os participantes. Faço isso porque acho genuinamente fascinante pensar em computação fora dos moldes clássicos — muda a forma como você enfrenta qualquer problema.
+Na faculdade, sou tutora de Algoritmos e Estruturas de Dados e monitora pedagógica. Gosto de ensinar. Explicar algo com clareza é, na maioria das vezes, a melhor prova de que você entendeu.</p>
 
 ###
 
@@ -50,7 +53,10 @@
 
 ###
 
-<p align="left">Computer Science student dedicated to building high-performance solutions with a strong focus on Python development. I currently serve as Tech Lead at Code[] (Junior Enterprise), where I spearhead software projects, mentoring technical teams and overseeing the full development lifecycle to ensure high-quality delivery.<br><br>Beyond software engineering, I am deepening my expertise in Quantum Computing through Brazil Quantum Tech, actively exploring the intersection of quantum algorithms and future computational paradigms. I am driven by the challenge of bridging current software best practices with the emerging possibilities of quantum technology, always seeking opportunities to grow as both a developer and a leader.</p>
+<p align="left">Computer Science student at Dom Helder and researcher at NIAR Saúde (DCC/UFMG), where I work with responsible AI applied to clinical health data. This area interests me because mistakes carry real weight — it's not a field where you can afford to be careless.
+I'm Tech Lead at Code[], my university's junior enterprise, where I coordinate teams, run software projects, and pitch to stakeholders. It's an environment that demands quick decisions and clear communication — two things I learned more from doing than from class.
+On the side, I study quantum computing. I completed the advanced track of the Brazil Quantum Camp, implemented algorithms like QSVM and QAOA, and my group's final project placed second among all participants. I do this because I genuinely find it fascinating to think about computing outside the classical mold — it changes the way you approach any problem.
+At university, I tutor Algorithms and Data Structures and work as a teaching assistant. I like teaching. Explaining something clearly is, more often than not, the best proof that you understood it.</p>
 
 ###
 
