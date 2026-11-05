@@ -34,7 +34,7 @@
 
 ###
 
-<h4 align="left">Graduanda em Ciência da Computação | Tech Lead na Code[] | Entusiasta de Computação Quântica</h4>
+<h4 align="left">Graduanda em Ciência da Computação | Pesquisadora | Entusiasta de Computação Quântica</h4>
 
 ###
 
@@ -47,7 +47,7 @@ Na faculdade, sou tutora de Algoritmos e Estruturas de Dados e monitora pedagóg
 
 ###
 
-<h4 align="left">Computer Science Student | Tech Lead at Code[] | Quantum Computing Enthusiast</h4>
+<h4 align="left">Computer Science Student | Researcher | Quantum Computing Enthusiast</h4>
 
 ###
 
