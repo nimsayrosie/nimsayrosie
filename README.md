@@ -1,4 +1,3 @@
-<!-- ═══════════════════════════  YASMIN.LAB  ═══════════════════════════ -->
 
 <div align="center">
   <img src="./assets/header.svg" width="100%" alt="Yasmin Lourdes — yasmin.lab, plataforma de pesquisa em computação, física e quântica" />
@@ -11,11 +10,9 @@
 <div align="center">
   <a href="https://www.youtube.com/@quantumcinna" target="_blank"><img src="https://img.shields.io/badge/QuantumCinna-FFD6E5?style=for-the-badge&logo=youtube&logoColor=E0567F" alt="YouTube" /></a>
   <a href="https://www.linkedin.com/in/yasmin-nimsay/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-CFE6FD?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/nimsay.tech/" target="_blank"><img src="https://img.shields.io/badge/nimsay.tech-E9DCFA?style=for-the-badge&logo=instagram&logoColor=B5489A" alt="Instagram" /></a>
-  <!-- se quiser, adicione Lattes / ORCID:
-  <a href="LINK_DO_LATTES"><img src="https://img.shields.io/badge/Lattes-F3EDFF?style=for-the-badge&logo=bookstack&logoColor=8E6CC9" /></a>
-  <a href="LINK_DO_ORCID"><img src="https://img.shields.io/badge/ORCID-E8F6E9?style=for-the-badge&logo=orcid&logoColor=6BAA3C" /></a>
-  -->
+  <a href="https://www.instagram.com/qubitmin/" target="_blank"><img src="https://img.shields.io/badge/nimsay.tech-E9DCFA?style=for-the-badge&logo=instagram&logoColor=B5489A" alt="Instagram" /></a>
+  <a href="http://lattes.cnpq.br/2363184399342672" target="_blank"><img src="https://img.shields.io/badge/Lattes-F3EDFF?style=for-the-badge&logo=bookstack&logoColor=8E6CC9" alt="Lattes" /></a>
+  <a href="https://orcid.org/0009-0005-7148-4369" target="_blank"><img src="https://img.shields.io/badge/ORCID-FCE0E8?style=for-the-badge&logo=orcid&logoColor=7FAE2E" alt="ORCID" /></a>
   <br/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nimsayrosie.nimsayrosie&left_color=%2399C3F0&right_color=%23C8A2E8&left_text=visitantes%20no%20lab" alt="visitantes" />
 </div>
@@ -85,7 +82,6 @@ flowchart LR
 | 2026 | Predição de $k_{\text{eff}}$ em padrões de carregamento do núcleo de Angra 2 com GNN | VIII SENCIR 2026 |
 | 2026 | Aprendizado de máquina quântico para dados clínicos | QT4HEP 2026, CERN |
 
-<!-- dica: troque os títulos pelos oficiais e linke os PDFs/DOIs quando sair -->
 </details>
 
 ## `04 //` equações favoritas do lab
@@ -141,14 +137,6 @@ $$k_{\text{eff}} = \frac{N_{\,i+1}}{N_{\,i}}$$
 <img src="https://img.shields.io/badge/Java-FCE0E8?style=flat-square&logo=openjdk&logoColor=C74634" />
 <img src="https://img.shields.io/badge/Obsidian-E9DCFA?style=flat-square&logo=obsidian&logoColor=7C3AED" />
 
-<!-- no laboratório: descomente só o que você realmente usa
-**no laboratório**<br/>
-<img src="https://img.shields.io/badge/Qiskit-E9DCFA?style=flat-square&logo=qiskit&logoColor=6929C4" />
-<img src="https://img.shields.io/badge/PennyLane-FCE0E8?style=flat-square&logo=pennylane&logoColor=E0567F" />
-<img src="https://img.shields.io/badge/PyTorch-FFE3D1?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
-<img src="https://img.shields.io/badge/PyG-F1ECFB?style=flat-square&logo=pyg&logoColor=3C2179" />
-<img src="https://img.shields.io/badge/scikit--learn-FFF1D6?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
--->
 
 </div>
 
