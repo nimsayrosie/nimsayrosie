@@ -24,7 +24,7 @@
 
 ## `01 //` sobre a pesquisadora
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/454bf942db914c5ac32d3b8e5f9341d0cb43c2b426a3f2703240b4e508f12709/68747470733a2f2f6d656469612e74656e6f722e636f6d2f5035454a414c544d6b6c4d41414141692f63696e6e616d6f726f6c6c2e676966" alt="cinnamoroll" />
+<img align="right" height="150" src="https://media.tenor.com/P5EJALTMklMAAAAi/cinnamoroll.gif" alt="cinnamoroll" />
 
 Oi! Sou a **Yasmin**, estudante de Ciência da Computação na **Dom Helder** e pesquisadora no **NIAR Saúde (DCC/UFMG)**, onde trabalho com **IA responsável aplicada a dados clínicos**. Gosto dessa área porque nela o erro tem peso real: não dá pra ser descuidada.
 
