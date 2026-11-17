@@ -84,7 +84,6 @@ flowchart LR
 | 2026 | *Quantum Kernel SVM for Sepsis Detection on Imbalanced Clinical Data* | CBCTQ 2026, Niterói (pôster) |
 | 2026 | Predição de $k_{\text{eff}}$ em padrões de carregamento do núcleo de Angra 2 com GNN | VIII SENCIR 2026 |
 | 2026 | Aprendizado de máquina quântico para dados clínicos | QT4HEP 2026, CERN |
-| em breve | Autômato celular para propagação de fogo no Cerrado | em andamento |
 
 <!-- dica: troque os títulos pelos oficiais e linke os PDFs/DOIs quando sair -->
 </details>
