@@ -155,7 +155,6 @@ $$k_{\text{eff}} = \frac{N_{\,i+1}}{N_{\,i}}$$
 ## `07 //` painel de atividade
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=nimsayrosie&layout=compact&langs_count=6&locale=pt-br&card_width=340&bg_color=F7FBFF&title_color=6F95CF&text_color=7A86A8&border_color=D6E8FA&custom_title=Linguagens%20no%20lab" alt="linguagens" />
   <img height="170" src="https://streak-stats.demolab.com?user=nimsayrosie&locale=pt_BR&background=F7FBFF&border=D6E8FA&stroke=D6E8FA&ring=C8A2E8&fire=F49AC1&currStreakNum=6F95CF&sideNums=6F95CF&currStreakLabel=A58BD6&sideLabels=7A86A8&dates=9AA5C0" alt="streak" />
 </div>
 
