@@ -189,7 +189,10 @@ At university I tutor **Algorithms and Data Structures** and work as a teaching 
 </details>
 
 <div align="center">
-  <sub><i>"Explicar algo com clareza é a melhor prova de que você entendeu."</i></sub>
+
+> *"Prefiro ter perguntas que não podem ser respondidas do que respostas que não podem ser questionadas."*
+> — Richard Feynman
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:B9DAFB,50:E3D0F7,100:F7C3D7" width="100%" />
