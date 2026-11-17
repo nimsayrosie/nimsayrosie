@@ -139,9 +139,6 @@ $$k_{\text{eff}} = \frac{N_{\,i+1}}{N_{\,i}}$$
 <img src="https://img.shields.io/badge/Jupyter-FFE3D1?style=flat-square&logo=jupyter&logoColor=F37626" />
 <img src="https://img.shields.io/badge/NumPy-D9E8FB?style=flat-square&logo=numpy&logoColor=013243" />
 <img src="https://img.shields.io/badge/Java-FCE0E8?style=flat-square&logo=openjdk&logoColor=C74634" />
-<img src="https://img.shields.io/badge/Unity-EDEDF7?style=flat-square&logo=unity&logoColor=222222" />
-<img src="https://img.shields.io/badge/Flask-F1ECFB?style=flat-square&logo=flask&logoColor=333333" />
-<img src="https://img.shields.io/badge/OpenCV-DDF3E4?style=flat-square&logo=opencv&logoColor=27338E" />
 <img src="https://img.shields.io/badge/Obsidian-E9DCFA?style=flat-square&logo=obsidian&logoColor=7C3AED" />
 
 <!-- no laboratório: descomente só o que você realmente usa
