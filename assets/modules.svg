@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400">
+  <defs>
+    <style>
+      .mono{font-family:'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace}
+      .sans{font-family:'Segoe UI','Helvetica Neue',Arial,sans-serif}
+      .ttl{font-size:21px;font-weight:700}
+      .d{font-size:14.5px;fill:#7C8DB0}
+      .tag{font-size:12px;letter-spacing:2px}
+      .ecg{stroke-dasharray:420;stroke-dashoffset:420;animation:draw 2.6s linear infinite}
+      @keyframes draw{to{stroke-dashoffset:0}}
+      .burn{animation:burn 2.2s ease-in-out infinite}
+      .burn2{animation:burn 2.2s ease-in-out .7s infinite}
+      .burn3{animation:burn 2.2s ease-in-out 1.4s infinite}
+      @keyframes burn{0%,100%{fill:#FCE3EC}50%{fill:#F49AC1}}
+    </style>
+  </defs>
+
+  <!-- CARD 1 · QUÂNTICA -->
+  <g transform="translate(8 8)">
+    <rect width="278" height="384" rx="20" fill="#F4F9FF" stroke="#B9DAFB" stroke-width="2"/>
+    <text x="24" y="38" class="mono tag" fill="#8EBBEB">MÓDULO 01</text>
+    <!-- mini circuito -->
+    <g transform="translate(24 62)" stroke="#A9CCF0" stroke-width="2" fill="none">
+      <line x1="0" y1="20" x2="230" y2="20"/>
+      <line x1="0" y1="70" x2="230" y2="70"/>
+      <rect x="30" y="4" width="34" height="32" rx="7" fill="#FFFFFF"/>
+      <text x="47" y="26" text-anchor="middle" class="mono" font-size="16" fill="#5B7DB1" stroke="none">H</text>
+      <circle cx="115" cy="20" r="6" fill="#5B7DB1" stroke="none"/>
+      <line x1="115" y1="20" x2="115" y2="70"/>
+      <circle cx="115" cy="70" r="12" fill="#FFFFFF"/>
+      <line x1="103" y1="70" x2="127" y2="70"/><line x1="115" y1="58" x2="115" y2="82"/>
+      <rect x="166" y="54" width="44" height="32" rx="7" fill="#FFFFFF"/>
+      <path d="M174 78 A14 14 0 0 1 202 78" />
+      <line x1="188" y1="78" x2="199" y2="62"/>
+    </g>
+    <text x="24" y="200" class="sans ttl" fill="#5B7DB1">Computação &amp;</text>
+    <text x="24" y="226" class="sans ttl" fill="#5B7DB1">ML quântico</text>
+    <text x="24" y="260" class="sans d">QSVM, QAOA e kernels</text>
+    <text x="24" y="281" class="sans d">quânticos aplicados a</text>
+    <text x="24" y="302" class="sans d">dados clínicos reais</text>
+    <rect x="24" y="328" width="230" height="32" rx="16" fill="#FFFFFF" stroke="#B9DAFB"/>
+    <text x="139" y="349" text-anchor="middle" class="mono" font-size="13" fill="#5B7DB1">CBCTQ 2026 · QT4HEP</text>
+  </g>
+
+  <!-- CARD 2 · NUCLEAR -->
+  <g transform="translate(305 8)">
+    <rect width="278" height="384" rx="20" fill="#F8F4FF" stroke="#D9C4F2" stroke-width="2"/>
+    <text x="24" y="38" class="mono tag" fill="#B49AE0">MÓDULO 02</text>
+    <g transform="translate(139 112)" stroke="#FFFFFF" stroke-width="2">
+      <polygon points="0,-20 17,-10 17,10 0,20 -17,10 -17,-10" fill="#C8A2E8"/>
+      <polygon points="34,-20 51,-10 51,10 34,20 17,10 17,-10" fill="#E3D0F7"/>
+      <polygon points="-34,-20 -17,-10 -17,10 -34,20 -51,10 -51,-10" fill="#B9DAFB"/>
+      <polygon points="68,-20 85,-10 85,10 68,20 51,10 51,-10" fill="#B9DAFB"/>
+      <polygon points="-68,-20 -51,-10 -51,10 -68,20 -85,10 -85,-10" fill="#E3D0F7"/>
+      <polygon points="17,-50 34,-40 34,-20 17,-10 0,-20 0,-40" fill="#F7C3D7"/>
+      <polygon points="-17,-50 0,-40 0,-20 -17,-10 -34,-20 -34,-40" fill="#E3D0F7"/>
+      <polygon points="51,-50 68,-40 68,-20 51,-10 34,-20 34,-40" fill="#E3D0F7"/>
+      <polygon points="-51,-50 -34,-40 -34,-20 -51,-10 -68,-20 -68,-40" fill="#B9DAFB"/>
+      <polygon points="17,10 34,20 34,40 17,50 0,40 0,20" fill="#E3D0F7"/>
+      <polygon points="-17,10 0,20 0,40 -17,50 -34,40 -34,20" fill="#F7C3D7"/>
+      <polygon points="51,10 68,20 68,40 51,50 34,40 34,20" fill="#B9DAFB"/>
+      <polygon points="-51,10 -34,20 -34,40 -51,50 -68,40 -68,20" fill="#E3D0F7"/>
+      <circle r="5" fill="#FFFFFF" stroke="none">
+        <animate attributeName="r" values="3;7;3" dur="2s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <text x="24" y="200" class="sans ttl" fill="#8E6CC9">Física de reatores</text>
+    <text x="24" y="226" class="sans ttl" fill="#8E6CC9">+ redes em grafo</text>
+    <text x="24" y="260" class="sans d">GNN prevendo k_eff de</text>
+    <text x="24" y="281" class="sans d">padrões de carregamento</text>
+    <text x="24" y="302" class="sans d">do núcleo de Angra 2 (PWR)</text>
+    <rect x="24" y="328" width="230" height="32" rx="16" fill="#FFFFFF" stroke="#D9C4F2"/>
+    <text x="139" y="349" text-anchor="middle" class="mono" font-size="13" fill="#8E6CC9">VIII SENCIR 2026</text>
+  </g>
+
+  <!-- CARD 3 · SAÚDE -->
+  <g transform="translate(602 8)">
+    <rect width="278" height="384" rx="20" fill="#FFF5F9" stroke="#F7C3D7" stroke-width="2"/>
+    <text x="24" y="38" class="mono tag" fill="#EB98BA">MÓDULO 03</text>
+    <g transform="translate(24 64)">
+      <rect width="230" height="96" rx="14" fill="#FFFFFF" stroke="#F7D5E3"/>
+      <path d="M8 56 H70 L82 56 L92 22 L104 84 L116 40 L124 56 H222" fill="none" stroke="#FCE3EC" stroke-width="3" stroke-linejoin="round"/>
+      <path class="ecg" d="M8 56 H70 L82 56 L92 22 L104 84 L116 40 L124 56 H222" fill="none" stroke="#F49AC1" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+    </g>
+    <text x="24" y="200" class="sans ttl" fill="#D2709A">IA responsável</text>
+    <text x="24" y="226" class="sans ttl" fill="#D2709A">em saúde</text>
+    <text x="24" y="260" class="sans d">dados clínicos, sepse e</text>
+    <text x="24" y="281" class="sans d">bases desbalanceadas:</text>
+    <text x="24" y="302" class="sans d">onde o erro pesa de verdade</text>
+    <rect x="24" y="328" width="230" height="32" rx="16" fill="#FFFFFF" stroke="#F7C3D7"/>
+    <text x="139" y="349" text-anchor="middle" class="mono" font-size="13" fill="#D2709A">NIAR Saúde · DCC/UFMG</text>
+  </g>
+
+  <!-- CARD 4 · SISTEMAS COMPLEXOS -->
+  <g transform="translate(899 8)">
+    <rect width="278" height="384" rx="20" fill="#F4F9FF" stroke="#B9DAFB" stroke-width="2"/>
+    <text x="24" y="38" class="mono tag" fill="#8EBBEB">MÓDULO 04</text>
+    <g transform="translate(59 60)" stroke="#FFFFFF" stroke-width="2">
+      <g fill="#E4F0FC">
+        <rect x="0" y="0" width="20" height="20"/><rect x="20" y="0" width="20" height="20"/><rect x="40" y="0" width="20" height="20"/><rect x="60" y="0" width="20" height="20"/><rect x="80" y="0" width="20" height="20"/><rect x="100" y="0" width="20" height="20"/><rect x="120" y="0" width="20" height="20"/><rect x="140" y="0" width="20" height="20"/>
+        <rect x="0" y="20" width="20" height="20"/><rect x="20" y="20" width="20" height="20"/><rect x="40" y="20" width="20" height="20"/><rect x="100" y="20" width="20" height="20"/><rect x="120" y="20" width="20" height="20"/><rect x="140" y="20" width="20" height="20"/>
+        <rect x="0" y="40" width="20" height="20"/><rect x="20" y="40" width="20" height="20"/><rect x="120" y="40" width="20" height="20"/><rect x="140" y="40" width="20" height="20"/>
+        <rect x="0" y="60" width="20" height="20"/><rect x="20" y="60" width="20" height="20"/><rect x="40" y="60" width="20" height="20"/><rect x="100" y="60" width="20" height="20"/><rect x="120" y="60" width="20" height="20"/><rect x="140" y="60" width="20" height="20"/>
+        <rect x="0" y="80" width="20" height="20"/><rect x="20" y="80" width="20" height="20"/><rect x="40" y="80" width="20" height="20"/><rect x="60" y="80" width="20" height="20"/><rect x="80" y="80" width="20" height="20"/><rect x="100" y="80" width="20" height="20"/><rect x="120" y="80" width="20" height="20"/><rect x="140" y="80" width="20" height="20"/>
+      </g>
+      <rect class="burn" fill="#F7B8CF" x="60" y="20" width="20" height="20"/><rect class="burn2" fill="#F7B8CF" x="80" y="20" width="20" height="20"/>
+      <rect class="burn3" fill="#F7B8CF" x="40" y="40" width="20" height="20"/><rect fill="#F49AC1" x="60" y="40" width="20" height="20"/><rect fill="#F49AC1" x="80" y="40" width="20" height="20"/><rect class="burn" fill="#F7B8CF" x="100" y="40" width="20" height="20"/>
+      <rect class="burn2" fill="#F7B8CF" x="60" y="60" width="20" height="20"/><rect class="burn3" fill="#F7B8CF" x="80" y="60" width="20" height="20"/>
+    </g>
+    <text x="24" y="200" class="sans ttl" fill="#5B7DB1">Sistemas</text>
+    <text x="24" y="226" class="sans ttl" fill="#5B7DB1">complexos</text>
+    <text x="24" y="260" class="sans d">autômato celular para</text>
+    <text x="24" y="281" class="sans d">propagação de fogo no</text>
+    <text x="24" y="302" class="sans d">Cerrado e o peso do clima</text>
+    <rect x="24" y="328" width="230" height="32" rx="16" fill="#FFFFFF" stroke="#B9DAFB"/>
+    <text x="139" y="349" text-anchor="middle" class="mono" font-size="13" fill="#5B7DB1">em andamento</text>
+  </g>
+</svg>

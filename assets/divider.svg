@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="36" viewBox="0 0 1200 36">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#B9DAFB" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#B9DAFB"/>
+      <stop offset="50%" stop-color="#D9C4F2"/>
+      <stop offset="80%" stop-color="#F7C3D7"/>
+      <stop offset="100%" stop-color="#F7C3D7" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 18 Q37.5 4 75 18 T150 18 T225 18 T300 18 T375 18 T450 18 T525 18 T600 18 T675 18 T750 18 T825 18 T900 18 T975 18 T1050 18 T1125 18 T1200 18" fill="none" stroke="url(#g)" stroke-width="2.5" stroke-linecap="round">
+    <animate attributeName="stroke-dasharray" values="0 1300;1300 0" dur="3s" fill="freeze"/>
+  </path>
+  <circle cx="600" cy="18" r="5" fill="#C8A2E8"/>
+</svg>
